@@ -2,7 +2,7 @@
 
 **Tagline:** A deep learning-powered Streamlit app that detects skin lesion types from dermatoscopic images.  
 
-[Live Demo on Streamlit](https://share.streamlit.io/your-username/Skin-Cancer-Prediction/main/app.py)  
+[Live Demo on Streamlit](https://share.streamlit.io/vanshaj-cs/Skin-Cancer-Prediction/main/app.py)  
 
 ---
 
